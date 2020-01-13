@@ -11,3 +11,8 @@
     margin-right: auto;
     text-align: center;
 }
+
+.our_devices
+{
+    display: grid;
+}
