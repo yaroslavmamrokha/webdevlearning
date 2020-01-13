@@ -15,4 +15,5 @@
 .our_devices
 {
     display: grid;
+    grid-template-columns: auto auto auto;
 }
